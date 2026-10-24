@@ -1,0 +1,283 @@
+{
+ "event": {
+  "name": "Mia turns 8 - picnic in Riverside Park",
+  "kind": "close",
+  "service": "buffet",
+  "hours": 3,
+  "serve_at": "15:00",
+  "hot_venue": true,
+  "walk_ins": 2,
+  "currency": "¥",
+  "budget_total": 1100,
+  "other_costs": 120,
+  "must_cover": [
+   "main",
+   "dessert"
+  ]
+ },
+ "guests": [
+  {
+   "name": "Mia",
+   "rsvp": "yes",
+   "age": "child"
+  },
+  {
+   "name": "Host parents",
+   "rsvp": "yes",
+   "age": "adult",
+   "plus": 1
+  },
+  {
+   "name": "Grandma Lin",
+   "rsvp": "yes",
+   "age": "adult",
+   "appetite": 0.8
+  },
+  {
+   "name": "Leo",
+   "rsvp": "yes",
+   "age": "child",
+   "allergy": [
+    "peanut"
+   ]
+  },
+  {
+   "name": "Leo's dad",
+   "rsvp": "yes",
+   "age": "adult"
+  },
+  {
+   "name": "Zara",
+   "rsvp": "yes",
+   "age": "child",
+   "diet": [
+    "halal"
+   ]
+  },
+  {
+   "name": "Aisha",
+   "rsvp": "yes",
+   "age": "adult",
+   "diet": [
+    "halal"
+   ]
+  },
+  {
+   "name": "Nina",
+   "rsvp": "yes",
+   "age": "child",
+   "diet": [
+    "gluten-free"
+   ]
+  },
+  {
+   "name": "Nina's mum",
+   "rsvp": "yes",
+   "age": "adult"
+  },
+  {
+   "name": "Sam",
+   "rsvp": "yes",
+   "age": "adult",
+   "diet": [
+    "vegan"
+   ]
+  },
+  {
+   "name": "Tom",
+   "rsvp": "yes",
+   "age": "adult",
+   "diet": [
+    "vegetarian"
+   ]
+  },
+  {
+   "name": "Oscar",
+   "rsvp": "yes",
+   "age": "child",
+   "plus": 1
+  },
+  {
+   "name": "Oscar's parents",
+   "rsvp": "maybe",
+   "age": "adult",
+   "plus": 1
+  },
+  {
+   "name": "Ruby",
+   "rsvp": "yes",
+   "age": "child"
+  },
+  {
+   "name": "Ruby's mum",
+   "rsvp": "yes",
+   "age": "adult"
+  },
+  {
+   "name": "Kai",
+   "rsvp": "yes",
+   "age": "teen"
+  },
+  {
+   "name": "Ivy",
+   "rsvp": "maybe",
+   "age": "child"
+  },
+  {
+   "name": "Ben",
+   "rsvp": "none",
+   "age": "child"
+  },
+  {
+   "name": "Mei",
+   "rsvp": "yes",
+   "age": "child"
+  },
+  {
+   "name": "baby Jun",
+   "rsvp": "yes",
+   "age": "toddler"
+  },
+  {
+   "name": "Felix",
+   "rsvp": "no",
+   "age": "child"
+  }
+ ],
+ "menu": [
+  {
+   "dish": "Chicken skewers",
+   "course": "main",
+   "per_person": 3,
+   "unit": "pcs",
+   "pack": 20,
+   "pack_price": 58,
+   "contains": [
+    "poultry",
+    "soy"
+   ],
+   "halal_meat": true,
+   "hold": "hot"
+  },
+  {
+   "dish": "Mini sausage rolls",
+   "course": "main",
+   "per_person": 4,
+   "unit": "pcs",
+   "pack": 24,
+   "pack_price": 45,
+   "contains": [
+    "pork",
+    "gluten",
+    "egg"
+   ],
+   "hold": "ambient"
+  },
+  {
+   "dish": "Cheese & veg wraps",
+   "course": "main",
+   "per_person": 3,
+   "unit": "pcs",
+   "pack": 12,
+   "pack_price": 36,
+   "contains": [
+    "gluten",
+    "dairy"
+   ],
+   "hold": "cold"
+  },
+  {
+   "dish": "Rice-paper rolls",
+   "course": "main",
+   "per_person": 3,
+   "unit": "pcs",
+   "pack": 10,
+   "pack_price": 38,
+   "contains": [
+    "soy"
+   ],
+   "may_contain": [
+    "peanut"
+   ],
+   "hold": "cold"
+  },
+  {
+   "dish": "Grandma's potato samosas",
+   "course": "main",
+   "per_person": 3,
+   "unit": "pcs",
+   "unit_price": 0,
+   "contains": [
+    "gluten",
+    "mustard"
+   ],
+   "hold": "ambient"
+  },
+  {
+   "dish": "Corn cups",
+   "course": "side",
+   "per_person": 1,
+   "unit": "cups",
+   "pack": 12,
+   "pack_price": 30,
+   "contains": [],
+   "hold": "hot"
+  },
+  {
+   "dish": "Watermelon & grapes",
+   "course": "dessert",
+   "per_person": 120,
+   "unit": "g",
+   "yield": 0.6,
+   "pack": 1000,
+   "pack_price": 9,
+   "contains": [],
+   "hold": "cold"
+  },
+  {
+   "dish": "Birthday cake",
+   "course": "dessert",
+   "per_person": 1,
+   "unit": "slices",
+   "pack": 24,
+   "pack_price": 228,
+   "contains": [
+    "gluten",
+    "egg",
+    "dairy"
+   ],
+   "may_contain": [
+    "treenut"
+   ],
+   "hold": "cold",
+   "each": true,
+   "out_at": "16:30"
+  },
+  {
+   "dish": "Gluten-free cupcakes",
+   "course": "dessert",
+   "per_person": 1,
+   "unit": "pcs",
+   "pack": 6,
+   "pack_price": 42,
+   "contains": [
+    "egg",
+    "dairy"
+   ],
+   "hold": "cold",
+   "each": true,
+   "out_at": "16:30",
+   "instead_of": "Birthday cake"
+  },
+  {
+   "dish": "Plain crisps",
+   "reserve": true,
+   "per_person": 30,
+   "unit": "g",
+   "pack": 150,
+   "pack_price": 12,
+   "contains": [],
+   "hold": "shelf"
+  }
+ ]
+}

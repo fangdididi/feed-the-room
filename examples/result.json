@@ -1,0 +1,34 @@
+{
+ "actual_people": 21,
+ "dishes": {
+  "Chicken skewers": {
+   "left": 0,
+   "ran_out_at": "16:20"
+  },
+  "Mini sausage rolls": {
+   "left": 0.1
+  },
+  "Cheese & veg wraps": {
+   "left": 0.35
+  },
+  "Rice-paper rolls": {
+   "left": 0.2
+  },
+  "Grandma's potato samosas": {
+   "left": 0,
+   "ran_out_at": "16:45"
+  },
+  "Corn cups": {
+   "left": 0.15
+  },
+  "Watermelon & grapes": {
+   "left": 0.3
+  },
+  "Birthday cake": {
+   "left": 0.25
+  },
+  "Gluten-free cupcakes": {
+   "left": 0.5
+  }
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "predicted_people": 20.83,
+ "actual_people": 21,
+ "dishes": [
+  {
+   "dish": "Chicken skewers",
+   "bought": 20.0,
+   "eaten": 20.0,
+   "left_share": 0.0,
+   "status": "RAN OUT",
+   "note": "ran out at 16:20: true demand was higher; raise next time"
+  },
+  {
+   "dish": "Mini sausage rolls",
+   "bought": 24.0,
+   "eaten": 21.6,
+   "left_share": 0.1,
+   "eaten_vs_plan": 1.26,
+   "status": "ABOUT RIGHT",
+   "note": "leftover is no more than the pack rounding; a smaller pack size fixes it"
+  },
+  {
+   "dish": "Cheese & veg wraps",
+   "bought": 24.0,
+   "eaten": 15.6,
+   "left_share": 0.35,
+   "eaten_vs_plan": 1.0,
+   "status": "TOO MUCH"
+  },
+  {
+   "dish": "Rice-paper rolls",
+   "bought": 30.0,
+   "eaten": 24.0,
+   "left_share": 0.2,
+   "eaten_vs_plan": 1.37,
+   "status": "ABOUT RIGHT",
+   "note": "leftover is no more than the pack rounding; a smaller pack size fixes it"
+  },
+  {
+   "dish": "Grandma's potato samosas",
+   "bought": 20,
+   "eaten": 20.0,
+   "left_share": 0.0,
+   "status": "RAN OUT",
+   "note": "ran out at 16:45: true demand was higher; raise next time"
+  },
+  {
+   "dish": "Corn cups",
+   "bought": 24.0,
+   "eaten": 20.4,
+   "left_share": 0.15,
+   "eaten_vs_plan": 1.28,
+   "status": "ABOUT RIGHT",
+   "note": "leftover is no more than the pack rounding; a smaller pack size fixes it"
+  },
+  {
+   "dish": "Watermelon & grapes",
+   "bought": 4000.0,
+   "eaten": 1680.0,
+   "left_share": 0.3,
+   "eaten_vs_plan": 0.88,
+   "status": "TOO MUCH"
+  },
+  {
+   "dish": "Birthday cake",
+   "bought": 24.0,
+   "eaten": 18.0,
+   "left_share": 0.25,
+   "eaten_vs_plan": 1.0,
+   "status": "TOO MUCH"
+  },
+  {
+   "dish": "Gluten-free cupcakes",
+   "bought": 6.0,
+   "eaten": 3.0,
+   "left_share": 0.5,
+   "eaten_vs_plan": 3.14,
+   "status": "TOO MUCH",
+   "note": "leftover is no more than the pack rounding; a smaller pack size fixes it"
+  }
+ ],
+ "turnout_vs_prediction": 1.01,
+ "crowd_appetite": 1.13
+}
